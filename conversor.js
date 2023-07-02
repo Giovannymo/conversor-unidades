@@ -1,5 +1,5 @@
 import { default as Calculadora } from './Calculadora.js';
-;
+
 //Temperatura 
 
 const $txtCelsius = document.getElementById("txtCelsius");
