@@ -29,6 +29,10 @@ export default class Calculadora {
     return this.resultado =  (this.unidad * 3.281)
   }
 
+  convertirPeso(){
+    return this.resultado = (this.unidad * 2.205)
+  }
+
 
 
 }
